@@ -1,0 +1,25 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "CCWAudioEngine",
+	"Description": ".",
+	"Category": "",
+	"CreatedBy": "Jake Gamelin",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": false,
+	"IsBetaVersion": true,
+	"Installed": false,
+	"Modules": [
+	{
+		"Name": "CCWAudioEngine",
+		"Type": "Editor",
+		"LoadingPhase": "Default"
+	}],
+	"Plugins": [
+	]
+}
+
